@@ -50,3 +50,8 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+  #### Name: [JEETHU BAIJU](https://github.com/jeethubaiju)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [JEETHU BAIJU](https://github.com/jeethubaiju2)
+
